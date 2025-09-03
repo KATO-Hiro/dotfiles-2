@@ -46,6 +46,7 @@ homebrew:
     - automake
     - carthage
     - cocoapods
+    - derailed/k9s/k9s
     - direnv
     - docker
     - ffmpeg
