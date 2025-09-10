@@ -49,3 +49,6 @@ a.out
 ## direnv
 .env
 .envrc
+
+## claude code
+.claude/settings.local.json
